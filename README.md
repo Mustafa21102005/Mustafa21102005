@@ -1,48 +1,76 @@
-# 👋 Hi, I'm Mustafa
+<div align="center">
 
-**Full-Stack Software Engineer**  
-Passionate about turning ideas into real-world web applications.
+# 😺 Mustafa Azmi
 
-- 💻 Experienced with **Laravel, PHP, MySQL**
-- 🎨 Building responsive, clean UIs
-- 🌱 Currently learning **Vue.js**
-- 🚀 Working on my personal portfolio
+### 🧑‍💻 Software Engineer ×  Full Stack Developer
 
----
+*Building scalable, clean, and user-focused web applications*
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/rexl.05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-azmi-3718463a2)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/mustafa_azmi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.azmi.khalil@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A70CCF&repeat=false&width=537&lines=Designing+simple+solutions+for+real+problems.)](https://git.io/typing-svg)
 
----
+[![Resume](https://img.shields.io/badge/Resume-PDF-lightgreen?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1dyRKJypP02j9QdsGkDLK2KenN8nmo4Wr)
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafa21102005&color=AD7A99&style=for-the-badge&label=PROFILE+VIEWS)
 
-## 💻 Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=plastic&logo=jira&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966545117570)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.azmi.khalil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-azmi-3718463a2/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/mustafa_azmi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rexl.05/)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tools and Technologies
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mustafa21102005&theme=rose_pine&hide_border=false)
+### 🖌️ UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+#
+
+### 🖼️ Front-end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#
+
+### ⚙️ Back-end
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-DDD?style=for-the-badge&logo=composer&logoColor=000000)
+#
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#
+
+### 🗃️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#
+
+### ✨ Extra
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Mustafa21102005&theme=bear&hide_border=false)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafa21102005&theme=bear&hide_border=false)
+
+</div>

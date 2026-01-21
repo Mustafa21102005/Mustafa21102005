@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A70CCF&repeat=false&width=537&lines=Designing+simple+solutions+for+real+problems.)](https://git.io/typing-svg)
 
+[![PersonalWebsite](https://img.shields.io/badge/Personal-Website-lightblue?style=for-the-badge)](https://mustafa-azmi-portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-lightgreen?style=for-the-badge)](https://drive.google.com/file/d/1ZtVujMnnWxzUOScqPkLyduG3TtnugJnN/view)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafa21102005&color=AD7A99&style=for-the-badge&label=PROFILE+VIEWS)
 

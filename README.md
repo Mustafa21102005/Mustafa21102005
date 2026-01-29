@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A70CCF&repeat=false&width=537&lines=Designing+simple+solutions+for+real+problems.)](https://git.io/typing-svg)
 
 [![PersonalWebsite](https://img.shields.io/badge/Personal-Website-lightblue?style=for-the-badge)](https://mustafa-azmi.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-lightgreen?style=for-the-badge)](https://drive.google.com/file/d/1mDJTbP4nTMQ1mDDjfBzrO-6Im7RHSj8M/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-lightgreen?style=for-the-badge)](https://drive.google.com/file/d/1OOht3DPn0BsKGn_dEyq9nlLvER-JyUrV/view)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafa21102005&color=AD7A99&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966545117570)

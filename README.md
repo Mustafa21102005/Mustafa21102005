@@ -55,11 +55,10 @@
 
 ### ✨ Extra
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 ---
 
@@ -69,6 +68,7 @@
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa21102005&hide_border=true&background=000&ring=ff1493&fire=ff1493&currStreakLabel=ff1493&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa21102005&layout=compact&hide_border=true&card_width=450&bg_color=000&title_color=ff1493&text_color=ffffff&icon_color=ff1493)
+
 ---
 
 ## 📈 Contribution Activity

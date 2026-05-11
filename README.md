@@ -45,6 +45,14 @@
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+#
+
+### 🧪 Testing
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=phpunit&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-7B2BF9?style=for-the-badge&logo=pest&logoColor=white)
 
 #
 

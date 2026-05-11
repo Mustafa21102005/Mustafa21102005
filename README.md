@@ -9,8 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A70CCF&repeat=false&width=537&lines=Designing+simple+solutions+for+real+problems.)](https://git.io/typing-svg)
 
 [![PersonalWebsite](https://img.shields.io/badge/Personal-Website-lightblue?style=for-the-badge)](https://mustafa-azmi.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-English-lightgreen?style=for-the-badge)](https://drive.google.com/file/d/1BcTTYmLyuZTuMii_YGugOfCxRKfbpa--/view)
-[![Resume](https://img.shields.io/badge/Resume-Arabic-green?style=for-the-badge)](https://drive.google.com/file/d/1Bp_EGaCgLyLPQRijJN25rOf5gqd2AfA8/view)
+[![Resume](https://img.shields.io/badge/Resume-English-lightgreen?style=for-the-badge)](https://drive.google.com/file/d/1A4dHdfUMRXNmGUa5PIL9fgOy7Ud9tkP2/view)
+[![Resume](https://img.shields.io/badge/Resume-Arabic-green?style=for-the-badge)](https://drive.google.com/file/d/1MYDJGfyhu3bxu5AWVRJ2AEkmwfYi_2rf/view)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafa21102005&color=AD7A99&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966545117570)

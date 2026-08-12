@@ -73,11 +73,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafa21102005&show_icons=true&hide_border=true&bg_color=000&title_color=ff1493&text_color=ffffff&icon_color=ff1493&cache_seconds=1800)
-
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa21102005&hide_border=true&background=000&ring=ff1493&fire=ff1493&currStreakLabel=ff1493&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa21102005&layout=compact&hide_border=true&card_width=450&bg_color=000&title_color=ff1493&text_color=ffffff&icon_color=ff1493)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mustafa21102005&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Mustafa21102005&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa21102005&layout=compact&langs_count=4&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa21102005&layout=pie&langs_count=4&theme=aura)
 
 ---
 

@@ -78,10 +78,4 @@
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa21102005&layout=compact&langs_count=4&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa21102005&layout=pie&langs_count=4&theme=aura)
 
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafa21102005&theme=bear&hide_border=false)
-
 </div>
